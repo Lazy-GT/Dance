@@ -1,0 +1,3 @@
+ALTER TABLE community AUTO_INCREMENT = 1;
+ALTER TABLE image_community AUTO_INCREMENT = 1;
+ALTER TABLE user_community AUTO_INCREMENT = 1;
